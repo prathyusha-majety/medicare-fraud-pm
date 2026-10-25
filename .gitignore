@@ -1,0 +1,11 @@
+data/
+*.csv
+*.parquet
+*.zip
+logs/
+results/
+*.out
+__pycache__/
+.ipynb_checkpoints/
+.DS_store
+.DS_Store
