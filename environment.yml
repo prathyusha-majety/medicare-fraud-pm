@@ -1,0 +1,13 @@
+name: mfraud
+channels:
+  - conda-forge
+dependencies:
+  - rapidfuzz
+  - scikit-learn
+  - python=3.11
+  - matplotlib
+  - shap
+  - pandas
+  - pyarrow
+  - xgboost
+prefix: /cache/home/sm3664/miniforge3/envs/mfraud
